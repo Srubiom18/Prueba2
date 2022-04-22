@@ -11,7 +11,8 @@ public class Main {
 		System.out.print("Escribe un numero: "); num1 = sc.nextInt();
 		System.out.print("Escribe otro numero: "); num2 = sc.nextInt();
 		
-		System.out.println("El resultado es " + (num1 + num2));
+		System.out.println("La suma del los numeros es: " + (num1 + num2));
+		System.out.println("La resta del los numeros es: " + (num1 - num2));
 		
  }
 }
