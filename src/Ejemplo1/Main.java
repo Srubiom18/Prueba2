@@ -13,6 +13,9 @@ public class Main {
 		
 		System.out.println("La suma del los numeros es: " + (num1 + num2));
 		System.out.println("La resta del los numeros es: " + (num1 - num2));
+		System.out.println("La multiplicacion del los numeros es: " + (num1 * num2));
+		
+		
 		
  }
 }
